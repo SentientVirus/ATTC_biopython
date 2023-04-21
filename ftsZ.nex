@@ -1,8 +1,0 @@
-#NEXUS
-Begin Taxa;
- Dimensions NTax=19;
- TaxLabels Pseudomonas aeruginosa PAO1 Escherichia coli Vibrio cholerae Neisseria gonorrhoeae Borreliella burgdorferi Sinorhizobium meliloti 2 Agrobacterium tumefaciens Sinorhizobium meliloti Brucella canis str. Oliveri Chlamydomonas reinhardtii Listeria innocua Clip11262 Listeria monocytogenes EGD-e Bacillus subtilis subsp. spizizenii ATCC 6633 = JCM 2499 Staphylococcus aureus Streptomyces coelicolor A3{2} Streptomyces griseus Clavibacter michiganensis subsp. michiganensis NCPPB 382 Porphyromonas gingivalis Thermotoga maritima;
-End;
-Begin Trees;
- Tree tree1=(((('Pseudomonas aeruginosa PAO1':0.19915,('Escherichia coli':0.10004,'Vibrio cholerae':0.10666)Inner4:0.09351)Inner10:0.04570,'Neisseria gonorrhoeae':0.26671)Inner11:0.02694,('Borreliella burgdorferi':0.25567,('Sinorhizobium meliloti 2':0.12469,(('Agrobacterium tumefaciens':0.09973,'Sinorhizobium meliloti':0.09630)Inner3:0.03948,'Brucella canis str. Oliveri':0.13532)Inner5:0.02072)Inner6:0.14018)Inner15:0.01254)Inner16:0.00247,('Chlamydomonas reinhardtii':0.26711,(((('Listeria innocua Clip11262':0.00788,'Listeria monocytogenes EGD-e':0.00810)Inner1:0.10662,'Bacillus subtilis subsp. spizizenii ATCC 6633 = JCM 2499':0.11433)Inner8:0.02078,'Staphylococcus aureus':0.14963)Inner9:0.06972,(('Streptomyces coelicolor A3{2}':0.04406,'Streptomyces griseus':0.04851)Inner2:0.07448,'Clavibacter michiganensis subsp. michiganensis NCPPB 382':0.12857)Inner7:0.10052)Inner12:0.01437)Inner14:0.01716,('Porphyromonas gingivalis':0.36252,'Thermotoga maritima':0.25801)Inner13:0.02084)Inner17:0.00000;
-End;
