@@ -1,6 +1,6 @@
 # BLASTN 2.12.0+
 # Query: OX335166.1 Apilactobacillus kunkeei strain H3B2-03M genome assembly, chromosome: 1
-# Database: User specified sequence set (Input: fna/new_isolate.fna)
+# Database: User specified sequence set (Input: inputs/tutorial6/fna/new_isolate.fna)
 # Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
 # 622 hits found
 OX335166.1	OX335140.1	99.997	1321651	21	14	1	1321649	1	1321631	0.0	2.440e+06
