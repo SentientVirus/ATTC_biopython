@@ -2,11 +2,8 @@
 Repository for the project of a course in basic Python and Biopython
 
 ## Project description
-I am taking the pedagogic teaching course right now, and for my pedagogic project I 
-wanted to design a basic course, *Basic Python for Biologists*, that is intended for 
-beginners. The idea is to upload basic scripts here, or possibly a series of Jupyter 
-Notebooks where students would be able to run the course and that could also be 
-converted to PDF and used as lecture notes.
+Here I created course material for a new course, *Basic Python for Biologists*, that is intended for 
+beginners.  In this course, I aim to replace traditional lectures with interactive tutorials as the main form of instruction. The tutorials so far consists are six Jupyter Notebooks, of which tutorials 1-3 teach basic Python contents, and tutorials 4-6 teach how to use Biopython and other Python libraries that can be used to parse and display biological data.
 
 ## Instructions
 If you don't have Anaconda, follow the instructions in the PDF of the first tutorial (Introduction) to get started. If 
